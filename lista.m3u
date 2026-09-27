@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="" type="vod"
 
-#EXTINF:-1 tvg-id="" tvg-name="Spider-Man Prueba" tvg-logo="https://picsum.photos/300/400.jpg" logo="https://picsum.photos/300/400.jpg" group-title="P VOD | PRUEBA" group-type="vod",Spider-Man Prueba
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man Prueba" tvg-logo="https://i.pinimg.com/736x/e2/3e/5a/e23e5a736ac1749e7a8bd929b7b2244d.jpg" group-title="P VOD | PRUEBA" group-type="vod",Spider-Man Prueba
 https://empty-math-77e3.luisjfigueroag507.workers.dev/movie/Spider-Man-Prueba.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Corto Nuevo Prueba" tvg-logo="https://picsum.photos/300/400.jpg" logo="https://picsum.photos/300/400.jpg" group-title="P VOD | PRUEBA" group-type="vod",Corto Nuevo Prueba
+#EXTINF:-1 tvg-id="" tvg-name="Corto Nuevo Prueba" tvg-logo="" group-title="P VOD | PRUEBA" group-type="vod",Corto Nuevo Prueba
 https://empty-math-77e3.luisjfigueroag507.workers.dev/movie/Corto-Nuevo.mp4
