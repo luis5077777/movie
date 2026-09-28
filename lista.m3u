@@ -1,73 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E01
+#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E01 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-reconnect=true
 https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap1.mp4
 
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E02
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap2.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E04
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap4.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E05
+#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E05 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-reconnect=true
 https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap5.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E06
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap6.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E07
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap7.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E08
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap8.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E09
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap9.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E10
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap10.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E11
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap11.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E12
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap12.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E13
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap13.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E14 (Colon)
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap14.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E15
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap15.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E16 (Manuel Corredera)
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap16.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E18 Parte 1
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap18-1.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E18 Parte 2
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap18-2.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E19
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap19.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E20
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap20.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E21
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap21.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E22 Parte 1
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap22-1.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E22 Parte 2
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap22-2.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E23
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap23.mp4
-
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E24
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap24.mp4
