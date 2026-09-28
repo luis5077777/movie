@@ -1,7 +1,10 @@
-#EXTM3U
+#EXTM3U x-tvg-url="" type="series"
 
 #EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E01" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E01
 https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap1.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E02" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E02
+https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap2.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E04" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E04
 https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap4.mp4
