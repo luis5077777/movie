@@ -1,11 +1,7 @@
-#EXTM3U
+#EXTM3U x-tvg-url="" type="vod"
 
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E01 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-reconnect=true
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Barberia - Cap 01" tvg-logo="" group-title="24/7 | LA BARBERIA" group-type="vod",La Barberia - Cap 01
+https://empty-math-77e3.luisjfigueroag507.workers.dev/movie/barberia-cap1.mp4
 
-#EXTINF:-1 tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Ta Pelua S01 E05 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-reconnect=true
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/barberia-cap5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Barberia - Cap 05" tvg-logo="" group-title="24/7 | LA BARBERIA" group-type="vod",La Barberia - Cap 05
+https://empty-math-77e3.luisjfigueroag507.workers.dev/movie/barberia-cap5.mp4
