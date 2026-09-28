@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="" type="vod"
 
-#EXTINF:-1 tvg-id="" tvg-name="La Barberia - Cap 01" tvg-logo="" group-title="24/7 | LA BARBERIA" group-type="vod",La Barberia - Cap 01
+#EXTINF:-1 tvg-id="" tvg-name="La Barberia Cap 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwOTE2NjU4PC@._V1_.jpg" group-title="SERIES | LA BARBERIA" group-type="vod",La Barberia Cap 1
 https://empty-math-77e3.luisjfigueroag507.workers.dev/movie/barberia-cap1.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Barberia - Cap 05" tvg-logo="" group-title="24/7 | LA BARBERIA" group-type="vod",La Barberia - Cap 05
+#EXTINF:-1 tvg-id="" tvg-name="La Barberia Cap 5" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwOTE2NjU4PC@._V1_.jpg" group-title="SERIES | LA BARBERIA" group-type="vod",La Barberia Cap 5
 https://empty-math-77e3.luisjfigueroag507.workers.dev/movie/barberia-cap5.mp4
