@@ -1,91 +1,73 @@
-#EXTM3U x-tvg-url="" type="series"
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E33
+https://tu-worker.workers.dev/t2-cap33.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E34
+https://tu-worker.workers.dev/t2-cap34.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E35
+https://tu-worker.workers.dev/t2-cap35.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E36
+https://tu-worker.workers.dev/t2-cap36.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E37
+https://tu-worker.workers.dev/t2-cap37.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E38
+https://tu-worker.workers.dev/t2-cap38.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E39
+https://tu-worker.workers.dev/t2-cap39.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E40
+https://tu-worker.workers.dev/t2-cap40.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E41
+https://tu-worker.workers.dev/t2-cap41.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E42
+https://tu-worker.workers.dev/t2-cap42.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E43
+https://tu-worker.workers.dev/t2-cap43.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E44
+https://tu-worker.workers.dev/t2-cap44.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E45
+https://tu-worker.workers.dev/t2-cap45.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E46
+https://tu-worker.workers.dev/t2-cap46.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E47
+https://tu-worker.workers.dev/t2-cap47.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E48
+https://tu-worker.workers.dev/t2-cap48.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E49
+https://tu-worker.workers.dev/t2-cap49.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E50
+https://tu-worker.workers.dev/t2-cap50.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E51
+https://tu-worker.workers.dev/t2-cap51.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E52
+https://tu-worker.workers.dev/t2-cap52.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E53
+https://tu-worker.workers.dev/t2-cap53.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E54
+https://tu-worker.workers.dev/t2-cap54.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 2", La Vaina Esta Pelúa S02 E57
+https://tu-worker.workers.dev/t2-cap57.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E01" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E01
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap1.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E02" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E02
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap2.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E04" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E04
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap4.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E05" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E05
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap5.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E06" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E06
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap6.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E07" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E07
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap7.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E10" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E10
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap10.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E11" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E11
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap11.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E12" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E12
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap12.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E13" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E13
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap13.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E14" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E14
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap14.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E15" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E15
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap15.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E16" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E16
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap16.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E17" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E17
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap17.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E18 Parte 1" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E18 Parte 1
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap18-1.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E18 Parte 2" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E18 Parte 2
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap18-2.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E19" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E19
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap19.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E20" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E20
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap20.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E21" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E21
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap21.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E22 Parte 1" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E22 Parte 1
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap22-1.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E22 Parte 2" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E22 Parte 2
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap22-2.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E23" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E23
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap23.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E24" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E24
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap24.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E25" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E25
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap25.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E27" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E27
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap27.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E28" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E28
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap28.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E29" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E29
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap29.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E30" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E30
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap30.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E31" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E31
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap31.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="La Vaina Esta Pelúa S01 E32" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",La Vaina Esta Pelúa S01 E32
-https://empty-math-77e3.luisjfigueroag507.workers.dev/series/Barberia-Cap32.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 3", La Vaina Esta Pelúa S03 E62
+https://tu-worker.workers.dev/t3-cap62.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 3", La Vaina Esta Pelúa S03 E63
+https://tu-worker.workers.dev/t3-cap63.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 3", La Vaina Esta Pelúa S03 E64
+https://tu-worker.workers.dev/t3-cap64.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 3", La Vaina Esta Pelúa S03 E65
+https://tu-worker.workers.dev/t3-cap65.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 3", La Vaina Esta Pelúa S03 E66
+https://tu-worker.workers.dev/t3-cap66.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 3", La Vaina Esta Pelúa S03 E67
+https://tu-worker.workers.dev/t3-cap67.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 3", La Vaina Esta Pelúa S03 E68
+https://tu-worker.workers.dev/t3-cap68.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 3", La Vaina Esta Pelúa S03 E69
+https://tu-worker.workers.dev/t3-cap69.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 3", La Vaina Esta Pelúa S03 E70
+https://tu-worker.workers.dev/t3-cap70.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 3", La Vaina Esta Pelúa S03 E71
+https://tu-worker.workers.dev/t3-cap71.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 3", La Vaina Esta Pelúa S03 E72
+https://tu-worker.workers.dev/t3-cap72.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 3", La Vaina Esta Pelúa S03 E73
+https://tu-worker.workers.dev/t3-cap73.mp4
+#EXTINF:-1 group-title="La Vaina Esta Pelúa - Temporada 3", La Vaina Esta Pelúa S03 E74
+https://tu-worker.workers.dev/t3-cap74.mp4
