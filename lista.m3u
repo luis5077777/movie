@@ -1,219 +1,28 @@
-export default {
-  async fetch(request) {
-
-    const url = new URL(request.url);
-    const path = url.pathname.toLowerCase();
-
-    let targetUrl = '';
-
-    // ==============================
-    // TEMPORADA 1
-    // ==============================
-
-    if (path.includes('barberia-cap1.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap1.mp4';
-    } else if (path.includes('barberia-cap2.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap2.mp4';
-    } else if (path.includes('barberia-cap4.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap4.mp4';
-    } else if (path.includes('barberia-cap5.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap5.mp4';
-    } else if (path.includes('barberia-cap6.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap6.mp4';
-    } else if (path.includes('barberia-cap7.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap7.mp4';
-    } else if (path.includes('barberia-cap10.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap10.mp4';
-    } else if (path.includes('barberia-cap11.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap11.mp4';
-    } else if (path.includes('barberia-cap12.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap12.mp4';
-    } else if (path.includes('barberia-cap13.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap13.mp4';
-    } else if (path.includes('barberia-cap14.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap14.mp4';
-    } else if (path.includes('barberia-cap15.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap15.mp4';
-    } else if (path.includes('barberia-cap16.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap16.mp4';
-    } else if (path.includes('barberia-cap17.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap17.mp4';
-    } else if (path.includes('barberia-cap18-1.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap18-1.mp4';
-    } else if (path.includes('barberia-cap18-2.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap18-2.mp4';
-    } else if (path.includes('barberia-cap19.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap19.mp4';
-    } else if (path.includes('barberia-cap20.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap20.mp4';
-    } else if (path.includes('barberia-cap21.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap21.mp4';
-    } else if (path.includes('barberia-cap22-1.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap22-1.mp4';
-    } else if (path.includes('barberia-cap22-2.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap22-2.mp4';
-    } else if (path.includes('barberia-cap23.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap23.mp4';
-    } else if (path.includes('barberia-cap24.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap24.mp4';
-    } else if (path.includes('barberia-cap25.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap25.mp4';
-    } else if (path.includes('barberia-cap27.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap27.mp4';
-    } else if (path.includes('barberia-cap28.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap28.mp4';
-    } else if (path.includes('barberia-cap29.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap29.mp4';
-    } else if (path.includes('barberia-cap30.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap30.mp4';
-    } else if (path.includes('barberia-cap31.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap31.mp4';
-    } else if (path.includes('barberia-cap32.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Barberia-Cap32.mp4';
-
-    // ==============================
-    // TEMPORADA 2
-    // ==============================
-
-    } else if (path.includes('lavainatapelua-t2-cap33.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap33.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap34.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap34.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap35.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap35.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap36.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap36.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap37.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap37.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap38.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap38.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap39.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap39.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap40.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap40.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap41.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap41.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap42.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap42.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap43.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap43.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap44.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap44.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap45.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap45.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap46.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap46.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap47.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap47.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap48.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap48.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap49.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap49.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap50.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap50.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap51.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap51.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap52.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap52.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap53.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap53.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap54.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap54.mp4';
-    } else if (path.includes('lavainatapelua-t2-cap57.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T2-Cap57.mp4';
-
-    // ==============================
-    // TEMPORADA 3
-    // ==============================
-
-    } else if (path.includes('lavainatapelua-t3-cap62.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T3-Cap62.mp4';
-    } else if (path.includes('lavainatapelua-t3-cap63.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T3-Cap63.mp4';
-    } else if (path.includes('lavainatapelua-t3-cap64.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T3-Cap64.mp4';
-    } else if (path.includes('lavainatapelua-t3-cap65.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T3-Cap65.mp4';
-    } else if (path.includes('lavainatapelua-t3-cap66.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T3-Cap66.mp4';
-    } else if (path.includes('lavainatapelua-t3-cap67.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T3-Cap67.mp4';
-    } else if (path.includes('lavainatapelua-t3-cap68.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T3-Cap68.mp4';
-    } else if (path.includes('lavainatapelua-t3-cap69.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T3-Cap69.mp4';
-    } else if (path.includes('lavainatapelua-t3-cap70.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T3-Cap70.mp4';
-    } else if (path.includes('lavainatapelua-t3-cap71.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T3-Cap71.mp4';
-    } else if (path.includes('lavainatapelua-t3-cap72.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T3-Cap72.mp4';
-    } else if (path.includes('lavainatapelua-t3-cap73.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T3-Cap73.mp4';
-    } else if (path.includes('lavainatapelua-t3-cap74.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/Lavainatapelua-T3-Cap74.mp4';
-
-    // ==============================
-    // METRA DE AMOR
-    // ==============================
-
-    } else if (path.includes('metradeamor-t01-cap01.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/MetraDeAmor-T01-Cap01.mp4';
-    } else if (path.includes('metradeamor-t01-cap02.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/MetraDeAmor-T01-Cap02.mp4';
-    } else if (path.includes('metradeamor-t01-cap03.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/MetraDeAmor-T01-Cap03.mp4';
-    } else if (path.includes('metradeamor-t01-cap04.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/MetraDeAmor-T01-Cap04.mp4';
-    } else if (path.includes('metradeamor-t01-cap05.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/MetraDeAmor-T01-Cap05.mp4';
-    } else if (path.includes('metradeamor-t01-cap06.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/MetraDeAmor-T01-Cap06.mp4';
-    } else if (path.includes('metradeamor-t01-cap07.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/MetraDeAmor-T01-Cap07.mp4';
-    } else if (path.includes('metradeamor-t01-cap08.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/MetraDeAmor-T01-Cap08.mp4';
-    } else if (path.includes('metradeamor-t01-cap09.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/MetraDeAmor-T01-Cap09.mp4';
-    } else if (path.includes('metradeamor-t01-cap10.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/MetraDeAmor-T01-Cap10.mp4';
-    } else if (path.includes('metradeamor-t01-cap11.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/MetraDeAmor-T01-Cap11.mp4';
-    } else if (path.includes('metradeamor-t01-cap12.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/MetraDeAmor-T01-Cap12.mp4';
-    } else if (path.includes('metradeamor-t01-cap13.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/MetraDeAmor-T01-Cap13.mp4';
-    } else if (path.includes('metradeamor-t01-cap14.mp4')) {
-      targetUrl = 'https://archive.org/download/la-barberia-panama-test/MetraDeAmor-T01-Cap14.mp4';
-
-    } else {
-      return new Response('Video no encontrado', { status: 404 });
-    }
-
-    // ==============================
-    // CONEXION CON ARCHIVE.ORG
-    // ==============================
-
-    const headers = new Headers(request.headers);
-
-    const response = await fetch(targetUrl, {
-      method: request.method,
-      headers: headers,
-      redirect: 'follow'
-    });
-
-    const newHeaders = new Headers(response.headers);
-
-    newHeaders.set('Access-Control-Allow-Origin', '*');
-    newHeaders.set('Access-Control-Allow-Methods', 'GET, HEAD, OPTIONS');
-    newHeaders.set('Accept-Ranges', 'bytes');
-    newHeaders.set('Content-Type', 'video/mp4');
-
-    return new Response(response.body, {
-      status: response.status,
-      statusText: response.statusText,
-      headers: newHeaders
-    });
-
-  }
-};
+#EXTINF:-1 tvg-chno="1" tvg-name="Metra de Amor T01E01" group-title="Metra de Amor",Metra de Amor - T01 E01
+https://empty-math-77e3.luisfigueroag507.workers.dev/metradeamor-t01-cap01.mp4
+#EXTINF:-1 tvg-chno="2" tvg-name="Metra de Amor T01E02" group-title="Metra de Amor",Metra de Amor - T01 E02
+https://empty-math-77e3.luisfigueroag507.workers.dev/metradeamor-t01-cap02.mp4
+#EXTINF:-1 tvg-chno="3" tvg-name="Metra de Amor T01E03" group-title="Metra de Amor",Metra de Amor - T01 E03
+https://empty-math-77e3.luisfigueroag507.workers.dev/metradeamor-t01-cap03.mp4
+#EXTINF:-1 tvg-chno="4" tvg-name="Metra de Amor T01E04" group-title="Metra de Amor",Metra de Amor - T01 E04
+https://empty-math-77e3.luisfigueroag507.workers.dev/metradeamor-t01-cap04.mp4
+#EXTINF:-1 tvg-chno="5" tvg-name="Metra de Amor T01E05" group-title="Metra de Amor",Metra de Amor - T01 E05
+https://empty-math-77e3.luisfigueroag507.workers.dev/metradeamor-t01-cap05.mp4
+#EXTINF:-1 tvg-chno="6" tvg-name="Metra de Amor T01E06" group-title="Metra de Amor",Metra de Amor - T01 E06
+https://empty-math-77e3.luisfigueroag507.workers.dev/metradeamor-t01-cap06.mp4
+#EXTINF:-1 tvg-chno="7" tvg-name="Metra de Amor T01E07" group-title="Metra de Amor",Metra de Amor - T01 E07
+https://empty-math-77e3.luisfigueroag507.workers.dev/metradeamor-t01-cap07.mp4
+#EXTINF:-1 tvg-chno="8" tvg-name="Metra de Amor T01E08" group-title="Metra de Amor",Metra de Amor - T01 E08
+https://empty-math-77e3.luisfigueroag507.workers.dev/metradeamor-t01-cap08.mp4
+#EXTINF:-1 tvg-chno="9" tvg-name="Metra de Amor T01E09" group-title="Metra de Amor",Metra de Amor - T01 E09
+https://empty-math-77e3.luisfigueroag507.workers.dev/metradeamor-t01-cap09.mp4
+#EXTINF:-1 tvg-chno="10" tvg-name="Metra de Amor T01E10" group-title="Metra de Amor",Metra de Amor - T01 E10
+https://empty-math-77e3.luisfigueroag507.workers.dev/metradeamor-t01-cap10.mp4
+#EXTINF:-1 tvg-chno="11" tvg-name="Metra de Amor T01E11" group-title="Metra de Amor",Metra de Amor - T01 E11
+https://empty-math-77e3.luisfigueroag507.workers.dev/metradeamor-t01-cap11.mp4
+#EXTINF:-1 tvg-chno="12" tvg-name="Metra de Amor T01E12" group-title="Metra de Amor",Metra de Amor - T01 E12
+https://empty-math-77e3.luisfigueroag507.workers.dev/metradeamor-t01-cap12.mp4
+#EXTINF:-1 tvg-chno="13" tvg-name="Metra de Amor T01E13" group-title="Metra de Amor",Metra de Amor - T01 E13
+https://empty-math-77e3.luisfigueroag507.workers.dev/metradeamor-t01-cap13.mp4
+#EXTINF:-1 tvg-chno="14" tvg-name="Metra de Amor T01E14" group-title="Metra de Amor",Metra de Amor - T01 E14
+https://empty-math-77e3.luisfigueroag507.workers.dev/metradeamor-t01-cap14.mp4
