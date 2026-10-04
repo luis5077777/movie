@@ -1,5 +1,13 @@
 #EXTM3U x-tvg-url="" type="series"
-#EXTINF:-1 tvg-id="" tvg-name="metra de amor t01 e01" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",metra de amor t01 e01
+ 
+#EXTINF:-1
+tvg-id="" tvg-name="metra de amor t01 e01"
+tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES
+PANAMA",metra de amor t01 e01
 https://archive.org/download/metradeamor-t01cap01/metradeamor-t01cap01.mp4
-#EXTINF:-1 tvg-id="" tvg-name="metra de amor t01 e02" tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES PANAMA",metra de amor t01 e02
+ 
+#EXTINF:-1
+tvg-id="" tvg-name="metra de amor t01 e02"
+tvg-logo="https://picsum.photos/300/400.jpg" group-title="SERIES
+PANAMA",metra de amor t01 e02
 https://archive.org/download/metradeamor-t01cap01/metradeamor-t01cap02.mp4
